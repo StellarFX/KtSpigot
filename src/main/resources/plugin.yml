@@ -1,0 +1,6 @@
+name: CHANGE_ME
+version: ${project.version}
+main: fr.stellardev.ktspigot.KtSpigot
+author: StellarFX
+description: CHANGE_ME
+api-version: 1.19
